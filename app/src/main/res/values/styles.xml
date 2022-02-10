@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Bottomsheet1">
+        <item name="backgroundColor">@color/yellow</item>
+       <item name="background">@drawable/rounded_dialog</item>
+    </style>
+</resources>
